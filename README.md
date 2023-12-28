@@ -2,7 +2,7 @@
 
 Verto lets users users spend Ethereum at USD based merchants by converting their Ether stake to USD in real time. This is achieved by holding Ether in a smart contract and tying that balance to a virtual stripe card.
 
-[vertopipeline.com](https://www.vertopipeline.com)
+[vertopipeline.com](http://vertopipline.s3-website-us-east-1.amazonaws.com)
 
 ## OVERVIEW
 
